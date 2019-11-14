@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "MgSmppClientCsSample/1.0.0": {
+        "dependencies": {
+          "Inetlab.SMPP": "2.6.13"
+        },
+        "runtime": {
+          "MgSmppClientCsSample.dll": {}
+        }
+      },
+      "Inetlab.SMPP/2.6.13": {
+        "runtime": {
+          "lib/netstandard2.0/Inetlab.SMPP.dll": {
+            "assemblyVersion": "2.6.13.0",
+            "fileVersion": "2.6.13.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MgSmppClientCsSample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Inetlab.SMPP/2.6.13": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tTDVwFSkDoqm+huip0cDGpwrGqSpHUuqQSdXHsu9pELzDEPapGnwCzs+tOUEclTCA224OYcdPbob5iuBcs0a1A==",
+      "path": "inetlab.smpp/2.6.13",
+      "hashPath": "inetlab.smpp.2.6.13.nupkg.sha512"
+    }
+  }
+}

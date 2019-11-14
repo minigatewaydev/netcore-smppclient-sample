@@ -1,0 +1,13 @@
+C:\Users\nazif\source\repos\Minigateway V2 Project\Samples\MgSmppClientCsSample\bin\MCD\Debug\netcoreapp3.0\MgSmppClientCsSample.exe
+C:\Users\nazif\source\repos\Minigateway V2 Project\Samples\MgSmppClientCsSample\bin\MCD\Debug\netcoreapp3.0\MgSmppClientCsSample.deps.json
+C:\Users\nazif\source\repos\Minigateway V2 Project\Samples\MgSmppClientCsSample\bin\MCD\Debug\netcoreapp3.0\MgSmppClientCsSample.runtimeconfig.json
+C:\Users\nazif\source\repos\Minigateway V2 Project\Samples\MgSmppClientCsSample\bin\MCD\Debug\netcoreapp3.0\MgSmppClientCsSample.runtimeconfig.dev.json
+C:\Users\nazif\source\repos\Minigateway V2 Project\Samples\MgSmppClientCsSample\bin\MCD\Debug\netcoreapp3.0\MgSmppClientCsSample.dll
+C:\Users\nazif\source\repos\Minigateway V2 Project\Samples\MgSmppClientCsSample\bin\MCD\Debug\netcoreapp3.0\MgSmppClientCsSample.pdb
+C:\Users\nazif\source\repos\Minigateway V2 Project\Samples\MgSmppClientCsSample\obj\MCD\Debug\netcoreapp3.0\MgSmppClientCsSample.csprojAssemblyReference.cache
+C:\Users\nazif\source\repos\Minigateway V2 Project\Samples\MgSmppClientCsSample\obj\MCD\Debug\netcoreapp3.0\MgSmppClientCsSample.AssemblyInfoInputs.cache
+C:\Users\nazif\source\repos\Minigateway V2 Project\Samples\MgSmppClientCsSample\obj\MCD\Debug\netcoreapp3.0\MgSmppClientCsSample.AssemblyInfo.cs
+C:\Users\nazif\source\repos\Minigateway V2 Project\Samples\MgSmppClientCsSample\obj\MCD\Debug\netcoreapp3.0\MgSmppClientCsSample.dll
+C:\Users\nazif\source\repos\Minigateway V2 Project\Samples\MgSmppClientCsSample\obj\MCD\Debug\netcoreapp3.0\MgSmppClientCsSample.pdb
+C:\Users\nazif\source\repos\Minigateway V2 Project\Samples\MgSmppClientCsSample\bin\MCD\Debug\netcoreapp3.0\Inetlab.SMPP.dll
+C:\Users\nazif\source\repos\Minigateway V2 Project\Samples\MgSmppClientCsSample\obj\MCD\Debug\netcoreapp3.0\MgSmppClientCsSample.csproj.CopyComplete

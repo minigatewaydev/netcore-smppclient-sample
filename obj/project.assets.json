@@ -1,0 +1,108 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Inetlab.SMPP/2.6.13": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Inetlab.SMPP.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Inetlab.SMPP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Inetlab.SMPP/2.6.13": {
+      "sha512": "tTDVwFSkDoqm+huip0cDGpwrGqSpHUuqQSdXHsu9pELzDEPapGnwCzs+tOUEclTCA224OYcdPbob5iuBcs0a1A==",
+      "type": "package",
+      "path": "inetlab.smpp/2.6.13",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "docs/Inetlab.SMPP-Documentation.pdf",
+        "inetlab.smpp.2.6.13.nupkg.sha512",
+        "inetlab.smpp.nuspec",
+        "lib/net452/Inetlab.SMPP.dll",
+        "lib/net452/Inetlab.SMPP.xml",
+        "lib/netstandard1.4/Inetlab.SMPP.dll",
+        "lib/netstandard1.4/Inetlab.SMPP.xml",
+        "lib/netstandard2.0/Inetlab.SMPP.dll",
+        "lib/netstandard2.0/Inetlab.SMPP.xml",
+        "readme.txt"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "Inetlab.SMPP >= 2.6.13"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\nazif\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\nazif\\source\\repos\\Minigateway V2 Project\\Samples\\MgSmppClientCsSample\\MgSmppClientCsSample.csproj",
+      "projectName": "MgSmppClientCsSample",
+      "projectPath": "C:\\Users\\nazif\\source\\repos\\Minigateway V2 Project\\Samples\\MgSmppClientCsSample\\MgSmppClientCsSample.csproj",
+      "packagesPath": "C:\\Users\\nazif\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nazif\\source\\repos\\Minigateway V2 Project\\Samples\\MgSmppClientCsSample\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\nazif\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "dependencies": {
+          "Inetlab.SMPP": {
+            "target": "Package",
+            "version": "[2.6.13, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
